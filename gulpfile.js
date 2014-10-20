@@ -25,5 +25,5 @@ gulp.task('test', function(){
 });
 
 gulp.task('watch', function(){
-  gulp.watch(sources, ['build']);
+  gulp.watch(sources.concat(tests), ['build']);
 });
