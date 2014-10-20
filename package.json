@@ -1,0 +1,19 @@
+{
+  "name": "your-module-name-here",
+  "version": "0.0.1",
+  "description": "A description about my awsome module",
+  "homepage": "https://github.com/cades",
+  "author": {
+    "name": "Hong-Jen Kao",
+    "company": "cades studio"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "gulp": "^3.8.7",
+    "gulp-jshint": "^1.8.4",
+    "gulp-mocha": "^1.1.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^0.3.2",
+    "mocha": "^1.21.4"
+  }
+}
